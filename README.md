@@ -32,7 +32,7 @@ Pour modifier le code ou compiler vous-même le projet :
 
 1.  Cloner le dépôt :
     ```bash
-    git clone [https://github.com/VOTRE-NOM/SolitaireIA.git](https://github.com/VOTRE-NOM/SolitaireIA.git)
+    git clone https://github.com/lucasabeka/Solitaire-AI-MCTS.git
     ```
 2.  Ouvrir avec IntelliJ IDEA.
 3.  Compiler avec Maven :
